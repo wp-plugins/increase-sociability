@@ -1,22 +1,25 @@
 === Plugin Name ===
 Contributors: preblogging
-Donate link: http://preblogging.com/donate
-Tags: stumbleupon,digg
+Donate link: http://www.preblogging.com/donate
+Tags: stumbleupon,digg,traffic
 Requires at least: 2.1
 Tested up to: 2.5.1
-Stable tag: 1.0
+Stable tag: 1.3
 
 Increase the traffic from social media websites by reminding visitors to vote
 
 == Description ==
 
 The best way to increase your traffic from Digg.com and StumbleUpon.com is to get more votes. Often you may have a great blog post, and people do visit via these websites. 
-By providing a call to action 
+By providing a call to action. This call to action will greatly improve the number of positive votes you will get, and hence in the end you will get more traffic. 
+
+= What is new in this version ?  =
+In Version 1.3, there is the option to specify a your own site. And you can send these visitors a certain message also. Also there is a new test mode !
+
 == Installation ==
 
-How to install the plugin
+How to install the plugin:
 
-e.g.
 
 1. Upload `increase-sociability.php` to the `/wp-content/plugins/` directory
 2. Go to your WordPress control panel, and visit the Plugin tab.
@@ -28,13 +31,13 @@ e.g.
 
 = How can I check if the plugin is working  =
 
-The easiest way is to visit any blog post and search in the page source for the words '<!-- Increase Socialability ', this should be towards the bottom of the page
+There is a test mode available which will show you a message on all your posts, while you are testing. 
 
-= Is this illegal=
+= Is this illegal? =
 
 Nope, all this plugin does is to remind people to vote for you if they like your blog post.
 
 == Screenshots ==
 
-1. no screen shots necessary as it's really straight forward !
+1. Sorry , no screen shots necessary as it's really straight forward !
 
