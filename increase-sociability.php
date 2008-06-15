@@ -113,7 +113,7 @@ function incSoc_message_filter($content = '')
 		if($_SERVER['HTTP_REFERER'] != ''){
 			$URL = parse_url($_SERVER['HTTP_REFERER']);
 		
-		 if ($URL['host'] =="www.stumbleupon.com"){
+		 if ($URL['host'] =="www.stumbleupon.com" || $URL['host'] =="buzz.stumbleupon.com"  ){
 
 			$browser_message = $incSoc_settings['new_stumble_visitor_message'] ;
 			}
